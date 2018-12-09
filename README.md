@@ -1,4 +1,4 @@
-# Statistics and numerical computing with Python
+# Statistics and scientific computing with Python
 General statistics and numerical/sceintific computing scripts and notebooks in Python
 
 ### Set Algebra basics
