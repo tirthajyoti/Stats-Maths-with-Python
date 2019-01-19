@@ -1,5 +1,5 @@
 # Statistics and scientific computing with Python
-General statistics and numerical/sceintific computing scripts and notebooks in Python
+General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
 
 ### Set Algebra basics
 ![set](http://www.efgh.com/math/algebra/venn.gif)
