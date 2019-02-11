@@ -26,3 +26,9 @@ Last chapter of the book rounds up the mathematical journey by bringing home all
 
 By the end of the book, you will build a strong foundation of mathematical skills, statistical knowledge, and data computation abilities to pursue a successful career as a highly efficient and impactful data scientist in your chosen profession.
 
+## LEARNING OUTCOME - WHAT WILL THE READER LEARN AND DO?
+1. How to think in a mathematically sound manner for a data science problem
+2. Be absolutely comfortable with basic and advanced math jargon as applicable to the domains of machine learning
+3. How to pick and apply various statistical methods for one’s chosen data science project
+4. Have a deep understanding of linear algebra techniques and objects and how they integrate into machine learning algorithms
+5. Implement simple and intuitive Python codes and use popular Python libraries for learning and practicing complex mathematical and statistical concepts
