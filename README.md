@@ -1,3 +1,5 @@
+## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
+
 # Statistics and scientific computing with Python
 General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
 
