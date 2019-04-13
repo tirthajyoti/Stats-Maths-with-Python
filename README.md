@@ -1,5 +1,3 @@
-## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
-
 # Statistics and scientific computing with Python
 General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
 
@@ -17,3 +15,7 @@ General statistics, mathematical programming, and numerical/sceintific computing
 Check out this article I wrote on Medium: ___[Essential Math for Data Science.](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)___
 
 Check out this article I wrote on Medium about ___["How to write your favorite R functions — in Python?"](https://towardsdatascience.com/how-to-write-your-favorite-r-functions-in-python-11e1e9c29089)___
+
+----
+
+### Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
