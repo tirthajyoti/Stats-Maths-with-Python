@@ -10,9 +10,9 @@ General statistics, mathematical programming, and numerical/sceintific computing
 ### Permutations and Combinations
 ![permutation and combination](http://slideplayer.com/slide/6113299/18/images/1/Permutation+and+Combination.jpg)
 ### Probability distributions (Discrete)
-![binomial](https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/09/03051417/11.jpg)
+![binom](https://www.maplesoft.com/support/help/content/1898/image50.png)
 ### Linear Regression Methods
-![lm](https://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png)
+![lm](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png)
 ### [_R-style_ Statistical functions written using Python](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/R-style%20Functions.ipynb)
 
 ## Articles
