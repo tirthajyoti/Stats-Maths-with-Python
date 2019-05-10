@@ -14,6 +14,7 @@ General statistics, mathematical programming, and numerical/sceintific computing
 ### Linear Regression Methods
 ![lm](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png)
 ### [_R-style_ Statistical functions written using Python](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/R-style%20Functions.ipynb)
+![rstyle](https://cdn-images-1.medium.com/max/1200/1*FqR5zGQYic_pNRyakzj_Cw.png)
 
 ## Articles
 Check out this article I wrote on Medium: ___[Essential Math for Data Science.](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)___
