@@ -7,7 +7,7 @@ General statistics, mathematical programming, and numerical/sceintific computing
 
 ### Set Algebra basics
 ![set](http://www.efgh.com/math/algebra/venn.gif)
-### Permutations and Combinations
+### [Permutations and Combinations](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Permutations_and_Combinations.ipynb)
 ![permutation and combination](http://slideplayer.com/slide/6113299/18/images/1/Permutation+and+Combination.jpg)
 ### Probability distributions (Discrete)
 ![binom](https://www.maplesoft.com/support/help/content/1898/image50.png)
