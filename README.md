@@ -5,7 +5,7 @@
 # Statistics and scientific computing with Python
 General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
 
-### Set Algebra basics
+### [Set Algebra basics](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Set_Algebra_with_Python.ipynb)
 ![set](http://www.efgh.com/math/algebra/venn.gif)
 ### [Permutations and Combinations](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Permutations_and_Combinations.ipynb)
 ![permutation and combination](http://slideplayer.com/slide/6113299/18/images/1/Permutation+and+Combination.jpg)
