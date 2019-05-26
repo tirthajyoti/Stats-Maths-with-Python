@@ -11,7 +11,7 @@ General statistics, mathematical programming, and numerical/sceintific computing
 ![permutation and combination](http://slideplayer.com/slide/6113299/18/images/1/Permutation+and+Combination.jpg)
 ### [Probability distributions (Discrete)](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Prob_Distributions_Discrete.ipynb)
 ![binom](https://www.maplesoft.com/support/help/content/1898/image50.png)
-### Linear Regression Methods
+### [Linear Regression Methods](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Linear_Regression_Methods.ipynb)
 ![lm](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png)
 ### [_R-style_ Statistical functions written using Python](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/R-style%20Functions.ipynb)
 ![rstyle](https://cdn-images-1.medium.com/max/1200/1*FqR5zGQYic_pNRyakzj_Cw.png)
