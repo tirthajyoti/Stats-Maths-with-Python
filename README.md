@@ -9,7 +9,7 @@ General statistics, mathematical programming, and numerical/sceintific computing
 ![set](http://www.efgh.com/math/algebra/venn.gif)
 ### [Permutations and Combinations](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Permutations_and_Combinations.ipynb)
 ![permutation and combination](http://slideplayer.com/slide/6113299/18/images/1/Permutation+and+Combination.jpg)
-### Probability distributions (Discrete)
+### [Probability distributions (Discrete)](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Prob_Distributions_Discrete.ipynb)
 ![binom](https://www.maplesoft.com/support/help/content/1898/image50.png)
 ### Linear Regression Methods
 ![lm](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png)
