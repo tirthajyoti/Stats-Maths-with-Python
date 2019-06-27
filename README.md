@@ -2,6 +2,18 @@
 
 ----
 
+### Requirements
+* **Python 3.5+**
+* **NumPy (`$ pip install numpy`)**
+* **Pandas (`$ pip install pandas`)**
+* **Scikit-learn (`$ pip install scikit-learn`)**
+* **SciPy (`$ pip install scipy`)**
+* **Statsmodels (`$ pip install statsmodels`)**
+* **MatplotLib (`$ pip install matplotlib`)**
+* **Seaborn (`$ pip install seaborn`)**
+
+---
+
 # Statistics and scientific computing with Python
 General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
 
