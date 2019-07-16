@@ -1,3 +1,6 @@
+# Statistics and scientific computing with Python
+General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
+
 ### Please feel free to [connect with me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
 
 ----
@@ -13,10 +16,6 @@
 * **Seaborn (`$ pip install seaborn`)**
 
 ---
-
-# Statistics and scientific computing with Python
-General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python
-
 ### [Set Algebra basics](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Set_Algebra_with_Python.ipynb)
 ![set](http://www.efgh.com/math/algebra/venn.gif)
 ### [Permutations and Combinations](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Permutations_and_Combinations.ipynb)
