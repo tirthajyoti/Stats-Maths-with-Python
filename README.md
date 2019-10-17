@@ -28,6 +28,8 @@ General statistics, mathematical programming, and numerical/sceintific computing
 ![rstyle](https://cdn-images-1.medium.com/max/1200/1*FqR5zGQYic_pNRyakzj_Cw.png)
 ### [Diagnostics of a linear regression problem](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Regression_Diagnostics.ipynb)
 
+### [Introduction to hypothesis testing](https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/Intro_Hypothesis_Testing.ipynb)
+
 ## Articles
 Check out this article I wrote on Medium: ___[Essential Math for Data Science.](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)___
 
