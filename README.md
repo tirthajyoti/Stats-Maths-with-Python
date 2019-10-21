@@ -1,7 +1,7 @@
 # Statistics and mathematical computing Notebooks
 General statistics, mathematical programming, and numerical/sceintific computing scripts and notebooks in Python.
 
-### Please feel free to [connect with me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
+### Please feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
 
 ----
 
