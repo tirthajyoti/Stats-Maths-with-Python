@@ -1,5 +1,5 @@
 # Statistics/ Mathematical Computing Notebooks
-General statistics, mathematics related, numerical/sceintific computing notebooks in Python.
+General statistics, mathematics related, and numerical/sceintific computing notebooks in Python.
 
 ### Please feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
 
