@@ -6,7 +6,7 @@ General statistics, mathematics related, and numerical/sceintific computing note
 ----
 
 ### Requirements
-* **Python 3.5+**
+* **Python 3.6+**
 * **NumPy (`$ pip install numpy`)**
 * **Pandas (`$ pip install pandas`)**
 * **Scikit-learn (`$ pip install scikit-learn`)**
