@@ -36,3 +36,5 @@ Check out this article I wrote on Medium: ___[Essential Math for Data Science.](
 Check out this article I wrote on Medium about ___["How to write your favorite R functions — in Python?"](https://towardsdatascience.com/how-to-write-your-favorite-r-functions-in-python-11e1e9c29089)___
 
 Check out this article I wrote on Medium about ___["Mathematical programming — a key habit to build up for advancing in data science?"](https://towardsdatascience.com/mathematical-programming-a-key-habit-to-built-up-for-advancing-in-data-science-c6d5c29533be)___
+
+Check out this article I wrote on Medium about ___["Bayes’ rule with a simple and practical example"](https://towardsdatascience.com/bayes-rule-with-a-simple-and-practical-example-2bce3d0f4ad0)___
