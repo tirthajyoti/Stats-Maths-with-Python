@@ -38,3 +38,5 @@ Check out this article I wrote on Medium about ___["How to write your favorite R
 Check out this article I wrote on Medium about ___["Mathematical programming — a key habit to build up for advancing in data science?"](https://towardsdatascience.com/mathematical-programming-a-key-habit-to-built-up-for-advancing-in-data-science-c6d5c29533be)___
 
 Check out this article I wrote on Medium about ___["Bayes’ rule with a simple and practical example"](https://towardsdatascience.com/bayes-rule-with-a-simple-and-practical-example-2bce3d0f4ad0)___
+
+Check out this article I wrote on Medium about ___["Statistical modeling with “Pomegranate” — fast and intuitive"](https://towardsdatascience.com/statistical-modeling-with-pomegranate-fast-and-intuitive-4d605d9c33a9)___
